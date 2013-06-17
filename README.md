@@ -1,4 +1,4 @@
 sandbox
 =======
 
-sand box.
+sand box
